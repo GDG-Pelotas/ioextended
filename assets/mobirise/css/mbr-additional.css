@@ -1864,6 +1864,9 @@ a {
     padding: 0 26px;
   }
 }
+.cid-tJEtq5AK70 .image-wrapper {
+  display: in-line;
+}
 @media (max-width: 992px) {
   .cid-tJEtq5AK70 .image-wrapper {
     margin-bottom: 50px;
@@ -1941,6 +1944,10 @@ a {
 .cid-tJEtq5AK70 .gde-badge-svg {
   max-width: 80px;
   max-heigth: 80px;
+}
+.cid-tJEtq5AK70 .badge-wrapper {
+  display: flex;
+  flex-direction: row;
 }
 .cid-tJEtq67gZv {
   padding-top: 5rem;
